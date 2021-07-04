@@ -1,0 +1,16 @@
+.playarea-heading h1 {
+    background-color: #330033;
+
+}
+.copy-id-div {
+    background-color: #330033;
+}
+#room-id {
+    width: fit-content;
+    padding:0.5rem 1rem;
+    background-color: #330033;
+}
+.bi-clipboard, .bi-clipboard-check {
+    margin-left: 10px;
+    cursor: pointer;
+}

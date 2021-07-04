@@ -1,0 +1,22 @@
+.chatroom {
+    height: 100vh;
+    overflow-y: scroll;
+    position: relative;
+    background-color: #330033;
+}
+#chatbox {
+    position: fixed;
+    bottom: 0;
+    width: 25rem;
+    padding: 1rem;
+    background-color: #330033;
+
+}
+.message_bubble {
+  width: 300px;
+  max-height: fit-content;
+  line-height: 20px;
+}
+#chat-btn {
+    margin-top: -5px;
+}
